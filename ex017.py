@@ -1,5 +1,7 @@
 # importando biblioteca
 import math
+
+# coletando dados do usuario
 a = float(input('Digite o ângulo: '))
 
 # convertendo o valor em rediando
